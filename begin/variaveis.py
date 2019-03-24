@@ -7,8 +7,8 @@ print (minha_variavel)
 var1 = 1 #variavel inteira
 var2 = 1.1 #variavel do tipo float
 var3 = "souUmaString" #variavel string
-var4 = True #verdadeiro
-var5 = False #falso
+var4 = True #verdadeiro bool
+var5 = False #falso bool
 
 print (var1)
 print (var2)
