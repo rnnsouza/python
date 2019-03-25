@@ -1,11 +1,12 @@
 # -*- coding: utf-8 -*-
+
 divisor = 2
 
 valorDefinido = 7
 
-satisfaction = bool(valorDefinido % divisor == 0)
+satisfatorio = bool(valorDefinido % divisor == 0)
 
-if satisfaction:
+if satisfatorio:
 	print("O número é par")
 else:
 	print("O número é impar")

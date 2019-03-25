@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-=
+
 # números aleatórios importando modo random
 import random
 

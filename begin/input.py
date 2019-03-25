@@ -5,4 +5,4 @@ print("O numero digitado é:",numero)
 
 nome = input("Digite seu nome: ")
 #print("Bem vindo "+nome)
-print("Bem vindo %s" %nome)
+print("Bem vindo %s" %nome) # %s -> string, %d -> inteiro

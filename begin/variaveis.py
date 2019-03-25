@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 minha_variavel = "Olá mundo!"
 
 print (minha_variavel)
@@ -7,8 +8,8 @@ print (minha_variavel)
 var1 = 1 #variavel inteira
 var2 = 1.1 #variavel do tipo float
 var3 = "souUmaString" #variavel string
-var4 = True #verdadeiro bool
-var5 = False #falso bool
+var4 = True #verdadeiro boolean
+var5 = False #falso boolean
 
 print (var1)
 print (var2)

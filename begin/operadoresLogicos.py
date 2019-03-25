@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+# comentário com várias linhas. OBS: tudo o que está dentro é uma string.
 '''
 x = 2
 y = 3
