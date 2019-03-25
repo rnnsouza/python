@@ -16,3 +16,13 @@ for i in range(10,20):
 # print 10 to 19 (two in two)
 for i in range(10,20,2):
 	print(i)
+
+
+# Referênciando uma lista
+
+var = [1,2,3,4,5,6,7]
+# nesse momento, var1 está referenciando a lista var, mas não está criando outra lista
+var1 = var
+
+# "ola mundo" será colocado na lista var, que também aparecerá na var1
+var.append("ola mundo") 
