@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# pip install requests
+# pip install --upgrade requests
+# pip install -r dependencias.txt  -> dependencias.txt contém todos os módulos de um projeto. Instala todos ao mesmo tempo
 
 # Módulo os
 import os
